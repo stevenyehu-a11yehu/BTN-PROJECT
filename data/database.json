@@ -1,0 +1,470 @@
+{
+  "users": [
+    {
+      "id": "usr_superadmin",
+      "username": "superadmin",
+      "passwordHash": "$2b$10$j53z144sFYUOFInpf2O6k.wRRKhOZcVmeOvfrwZ3QTD34TKBjl71G",
+      "role": "superadmin",
+      "fullName": "Super Administrator BTN",
+      "companyOrPosition": "IT Asset & Architecture Div",
+      "whatsappNumber": "081234567890",
+      "isActive": true,
+      "createdAt": "2026-10-12T15:55:30.115Z",
+      "updatedAt": "2026-10-12T15:55:30.115Z"
+    },
+    {
+      "id": "usr_vendor_wide",
+      "username": "vendor_wide",
+      "passwordHash": "$2b$10$YIAQKBNghkJ6lDhHhFQ9bOC5ieoHvcdWTXNmkaCdoYUc2glAH6QLy",
+      "role": "vendor",
+      "fullName": "Natasya Julianti",
+      "companyOrPosition": "PT. Wide Technologies Indonesia / IT Project Manager",
+      "whatsappNumber": "08974847052",
+      "assignedSlot": "IT Project Manager Vendor",
+      "isActive": true,
+      "createdAt": "2026-10-12T15:55:30.215Z",
+      "updatedAt": "2026-10-12T15:55:30.215Z"
+    },
+    {
+      "id": "usr_pm_btn",
+      "username": "pm_btn",
+      "passwordHash": "$2b$10$cXJ9u0WBL6HTE4aGnx1teuV2QiKLYutSQh2/84bHRA0/BpUGb7mjy",
+      "role": "manajemen_btn",
+      "fullName": "Ratih Yulia P",
+      "companyOrPosition": "Bank BTN / IT Project Manager",
+      "whatsappNumber": "081298765432",
+      "assignedSlot": "IT Project Manager BTN",
+      "isActive": true,
+      "createdAt": "2026-10-12T15:55:30.312Z",
+      "updatedAt": "2026-10-12T15:55:30.312Z"
+    },
+    {
+      "id": "usr_qa_btn",
+      "username": "qa_btn",
+      "passwordHash": "$2b$10$c9nHst5WcftuxuyfQTVhAufFdjcC5gvLw1i.XEyBIEj30i3ATRipm",
+      "role": "manajemen_btn",
+      "fullName": "Muhammad Juliansyah Hartono",
+      "companyOrPosition": "Bank BTN / IT Quality Assurance",
+      "whatsappNumber": "081298765433",
+      "assignedSlot": "IT Quality Assurance",
+      "isActive": true,
+      "createdAt": "2026-10-12T15:55:30.408Z",
+      "updatedAt": "2026-10-12T15:55:30.409Z"
+    },
+    {
+      "id": "usr_arch_btn",
+      "username": "arch_btn",
+      "passwordHash": "$2b$10$4TloafDs9pWs9sgM0C2MoeWjLkW0Z/nKm/kRgBt01XTE9wJdMl.UO",
+      "role": "manajemen_btn",
+      "fullName": "Rizal Firdaus",
+      "companyOrPosition": "Bank BTN / Technology Architecture Specialist",
+      "whatsappNumber": "081298765434",
+      "assignedSlot": "Technology Architecture Specialist",
+      "isActive": true,
+      "createdAt": "2026-10-12T15:55:30.508Z",
+      "updatedAt": "2026-10-12T15:55:30.508Z"
+    },
+    {
+      "id": "usr_cmdb_btn",
+      "username": "cmdb_btn",
+      "passwordHash": "$2b$10$nmaHwLrf86cm.XqIiwJFdulqi/hc3ctNDsoSs4x4NFRytILFuwBfq",
+      "role": "manajemen_btn",
+      "fullName": "Thifal Atsiil",
+      "companyOrPosition": "Bank BTN / IT Asset Compliance & CMDB Specialist",
+      "whatsappNumber": "081298765435",
+      "assignedSlot": "IT Asset Compliance & CMDB Specialist",
+      "isActive": true,
+      "createdAt": "2026-10-12T15:55:30.607Z",
+      "updatedAt": "2026-10-12T15:55:30.607Z"
+    },
+    {
+      "id": "usr_dh_pm",
+      "username": "dh_pm",
+      "passwordHash": "$2b$10$r0SvdvoOaroizloa4hCwGOXg5YXSD1Oc0.BiFRAKeYrltrAGVae6e",
+      "role": "manajemen_btn",
+      "fullName": "I Nyoman Hermawan",
+      "companyOrPosition": "Bank BTN / Dept Head IT Project Management",
+      "whatsappNumber": "081298765436",
+      "assignedSlot": "Department Head of IT Project Management",
+      "isActive": true,
+      "createdAt": "2026-10-12T15:55:30.704Z",
+      "updatedAt": "2026-10-12T15:55:30.704Z"
+    },
+    {
+      "id": "usr_dh_qa",
+      "username": "dh_qa",
+      "passwordHash": "$2b$10$QJECAKYYdoALATDiWTIOO.hgu3M2zYssPPCt9YxoRHSK3js8gyJPm",
+      "role": "manajemen_btn",
+      "fullName": "Aditya Prasetya Putra",
+      "companyOrPosition": "Bank BTN / Dept Head IT Quality Assurance",
+      "whatsappNumber": "081298765437",
+      "assignedSlot": "Department Head of IT Quality Assurance",
+      "isActive": true,
+      "createdAt": "2026-10-12T15:55:30.801Z",
+      "updatedAt": "2026-10-12T15:55:30.801Z"
+    },
+    {
+      "id": "usr_dh_ea",
+      "username": "dh_ea",
+      "passwordHash": "$2b$10$7kGSMTvLrxy68OWkHXSpBO8tvkCrmNUNp9CU1ehog9KsdIN4cf.2G",
+      "role": "manajemen_btn",
+      "fullName": "Muhammad Muhajir",
+      "companyOrPosition": "Bank BTN / Dept Head Enterprise Architecture & Innovation",
+      "whatsappNumber": "081298765438",
+      "assignedSlot": "Department Head of Enterprise Architecture & Innovation",
+      "isActive": true,
+      "createdAt": "2026-10-12T15:55:30.914Z",
+      "updatedAt": "2026-10-12T15:55:30.914Z"
+    },
+    {
+      "id": "usr_dh_asset",
+      "username": "dh_asset",
+      "passwordHash": "$2b$10$qcvEc6qDO1ojlyGtXbCUheTDkesC.OfSSyjzbpL2GiDFYSdRJNZwO",
+      "role": "manajemen_btn",
+      "fullName": "Weny Wiastri",
+      "companyOrPosition": "Bank BTN / Dept Head IT Asset Management",
+      "whatsappNumber": "081298765439",
+      "assignedSlot": "Department Head of IT Asset Management",
+      "isActive": true,
+      "createdAt": "2026-10-12T15:55:31.013Z",
+      "updatedAt": "2026-10-12T15:55:31.013Z"
+    }
+  ],
+  "forms": [
+    {
+      "id": "form_btn_example_001",
+      "registrationNo": "REG/ITAP/2026/001",
+      "registrationDate": "12 Oktober 2026",
+      "status": "On Going",
+      "createdByUserId": "usr_vendor_wide",
+      "createdByUsername": "vendor_wide",
+      "createdAt": "2026-10-12T15:55:31.013Z",
+      "updatedAt": "2026-10-12T15:55:31.013Z",
+      "kodeProyekTI": "2440583509OU",
+      "kodeAplikasi": "CASH",
+      "noPKSTerbaru": "161/PKS/ITPD/2023",
+      "namaProyekTI": "Order Penggunaan Kontrak Payung Mandays Pengembangan IB dan CMS 2023-2024 – Pengembangan CMS Bill Payment Pegadaian",
+      "pihakKedua": "PT. Wide Technologies Indonesia",
+      "hardwareList": [
+        {
+          "id": "hw_1",
+          "no": 1,
+          "merk": "N/A",
+          "type": "N/A",
+          "serialNumber": "N/A",
+          "noRak": "N/A",
+          "noRakUnit": "N/A",
+          "lokasi": "N/A",
+          "kepemilikan": "N/A",
+          "backup": "N/A",
+          "jangkaWaktuMaintenance": "N/A"
+        }
+      ],
+      "hardwareSpecList": [
+        {
+          "id": "spec_1",
+          "no": 1,
+          "operatingSystem": "N/A",
+          "processor": "N/A",
+          "ram": "N/A",
+          "volumeHarddisk": "N/A",
+          "softwareYangDiinstall": "N/A",
+          "ipAddressHostname": "N/A",
+          "tahunGoLive": "N/A",
+          "eolDate": "N/A",
+          "eosDate": "N/A"
+        }
+      ],
+      "licenseList": [
+        {
+          "id": "lic_1",
+          "no": 1,
+          "namaLicense": "Primecash License DC",
+          "deskripsiFungsiLicense": "Hak Guna Aplikasi Primecash ke BTN",
+          "qtyLicenseYangDibeli": "Primecash Corporate: 2\nPrimecash Individual: 2",
+          "qtyLicenseYangDiDeploy": "Primecash Corporate: 2\nPrimecash Individual: 2",
+          "serialNumberSku": "SL- 1021X5-26PDC",
+          "versionSoftware": "Primecash 5",
+          "perpetualSubscription": "Perpetual with ATS"
+        },
+        {
+          "id": "lic_2",
+          "no": 2,
+          "namaLicense": "Primecash License DRC",
+          "deskripsiFungsiLicense": "Hak Guna Aplikasi Primecash ke BTN",
+          "qtyLicenseYangDibeli": "Primecash Corporate: 2\nPrimecash Individual: 2",
+          "qtyLicenseYangDiDeploy": "Primecash Corporate: 2\nPrimecash Individual: 2",
+          "serialNumberSku": "SL- 1021X5-26PDRC",
+          "versionSoftware": "Primecash 5",
+          "perpetualSubscription": "Perpetual with ATS"
+        }
+      ],
+      "licensePrincipalList": [
+        {
+          "id": "prn_1",
+          "no": 1,
+          "namaPrincipal": "Wide Techologies Indonesia",
+          "ipServer": "172.17.5.6\n172.17.5.7\n172.17.5.8\n172.17.5.9",
+          "jangkaWaktuKontrak": "28 Desember 2025 – 27 Dezember 2026",
+          "jangkaWaktuLicense": "28 Desember 2025 – 27 Desember 2026",
+          "tahunEol": "N/A",
+          "tahunEos": "N/A"
+        },
+        {
+          "id": "prn_2",
+          "no": 2,
+          "namaPrincipal": "Wide Techologies Indonesia",
+          "ipServer": "172.19.5.6\n172.19.5.7\n172.19.5.8\n172.19.5.9",
+          "jangkaWaktuKontrak": "28 Desember 2025 – 27 Dezember 2026",
+          "jangkaWaktuLicense": "28 Desember 2025 – 27 Desember 2026",
+          "tahunEol": "N/A",
+          "tahunEos": "N/A"
+        }
+      ],
+      "softwareAppList": [
+        {
+          "id": "app_1",
+          "no": 1,
+          "namaAplikasi": "Bale Korpora",
+          "deskripsiAplikasi": "Bale Korpora adalah layanan yang disediakan oleh perbankan bagi institusi atau perusahan untuk mengelola dan melakukan transaksi perbankan secara online dan real time 24 jam per hari.",
+          "jenisAplikasi": "Application",
+          "kategoriServer": "Physical",
+          "jenisServer": "Development dan Production",
+          "loginAuth": "User Non AD",
+          "platformOsVersion": "Redhat Enterprise Linux 8.10",
+          "eosDateOs": "31 May 2029\nhttps://endoflife.date/rhel",
+          "databaseVersion": "Oracle Database 19c",
+          "eosDateDb": "31 Dec 2032\nhttps://endoflife.date/oracle-database"
+        }
+      ],
+      "softwareOwnerList": [
+        {
+          "id": "sown_1",
+          "no": 1,
+          "divisiAppsOwnerUser": "WTD",
+          "vendorPengembangAplikasi": "PT. Wide Techologies Indonesia",
+          "namaPrincipal": "PT. Wide Techologies Indonesia",
+          "tahunImplementasiGoLive": "2025",
+          "bahasaPemograman": "JDK 1.8",
+          "kepemilikan": "Beli Putus",
+          "kepemilikanSourceCode": "Penyedia Jasa",
+          "prosesBisnisYangDisupport": "Cash Management System",
+          "sistemFront": "Web"
+        }
+      ],
+      "softwareIPList": [
+        {
+          "id": "sip_1",
+          "no": 1,
+          "ipServerAppHostnameProduction": "DC\nWeb Production :\n172.17.4.6 (Node1)\n172.17.4.7 (Node2)\nApp Production :\n172.17.5.6 (Node1)\n172.17.5.7 (Node2)\n172.17.5.8 (Node3)\n172.17.5.9 (Node4)\n\nDRC\nWeb Production :\n172.19.4.6 (Node1)\n172.19.4.7 (Node2)\nApp Production :\n172.19.5.6 (Node1)\n172.19.5.7 (Node2)\n172.19.5.8 (Node3)\n172.19.5.9 (Node4)",
+          "ipServerAppHostnameDevelopment": "172.16.2.205 (DC)",
+          "backupServerApp": "Schedule",
+          "ipServerDbHostnameProduction": "DB Production DC\n172.17.3.6 (Node1)\n172.17.3.7 (Node2)\n\nDB Production DRC\n172.17.3.6 (Node1)\n172.17.3.7 (Node2)",
+          "ipServerDbHostnameDevelopment": "DB Development :\n172.16.2.205\n(DC)",
+          "backupServerDb": "Realtime"
+        }
+      ],
+      "disusunOleh": {
+        "key": "vendor_prep",
+        "title": "IT Project Manager Vendor",
+        "name": "Natasya Julianti",
+        "date": "12/10/2026",
+        "signatureDataUrl": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"160\" height=\"70\" viewBox=\"0 0 160 70\"><path d=\"M 20 50 Q 40 10 60 45 T 100 25 T 140 45\" fill=\"none\" stroke=\"%23334155\" stroke-width=\"2.5\" stroke-linecap=\"round\"/></svg>",
+        "signedByUserId": "usr_vendor_wide"
+      },
+      "diverifikasiOleh": [
+        {
+          "key": "div_pm_btn",
+          "title": "IT Project Manager BTN",
+          "name": "Ratih Yulia P",
+          "date": ""
+        },
+        {
+          "key": "div_qa",
+          "title": "IT Quality Assurance",
+          "name": "Muhammad Juliansyah Hartono",
+          "date": ""
+        },
+        {
+          "key": "div_arch",
+          "title": "Technology Architecture Specialist",
+          "name": "Rizal Firdaus",
+          "date": ""
+        },
+        {
+          "key": "div_cmdb",
+          "title": "IT Asset Compliance & CMDB Specialist",
+          "name": "Thifal Atsiil",
+          "date": ""
+        }
+      ],
+      "disetujuiOleh": [
+        {
+          "key": "appr_pm_dh",
+          "title": "Department Head of IT Project Management",
+          "name": "I Nyoman Hermawan",
+          "date": ""
+        },
+        {
+          "key": "appr_qa_dh",
+          "title": "Department Head of IT Quality Assurance",
+          "name": "Aditya Prasetya Putra",
+          "date": ""
+        },
+        {
+          "key": "appr_ea_dh",
+          "title": "Department Head of Enterprise Architecture & Innovation",
+          "name": "Muhammad Muhajir",
+          "date": ""
+        },
+        {
+          "key": "appr_asset_dh",
+          "title": "Department Head of IT Asset Management",
+          "name": "Weny Wiastri",
+          "date": ""
+        }
+      ],
+      "attachments": [
+        {
+          "id": "att_cert_dc",
+          "formId": "form_btn_example_001",
+          "fileName": "Software_License_Certificate_DC.png",
+          "fileType": "image/png",
+          "fileSize": 102400,
+          "order": 1,
+          "uploadedAt": "2026-10-12T15:55:31.013Z",
+          "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iMTEzMCIgdmlld0JveD0iMCAwIDgwMCAxMTMwIiBzdHlsZT0iYmFja2dyb3VuZDp3aGl0ZTsgZm9udC1mYW1pbHk6J1NlZ29lIFVJJyxSb2JvdG8sc2Fucy1zZXJpZjsiPgogICAgPCEtLSBHb2xkIC8gQmx1ZSBCb3JkZXIgRGVjbyAtLT4KICAgIDxyZWN0IHg9IjI1IiB5PSIyNSIgd2lkdGg9Ijc1MCIgaGVpZ2h0PSIxMDgwIiBmaWxsPSJub25lIiBzdHJva2U9IiNlMGUwZTAiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgICA8cGF0aCBkPSJNIDI1IDI1IEwgMTgwIDI1IEwgMjUgMTgwIFoiIGZpbGw9IiNiODg2MGIiIG9wYWNpdHk9IjAuODUiLz4KICAgIDxwYXRoIGQ9Ik0gMjUgMjUgTCAxNDAgMjUgTCAyNSAxNDAgWiIgZmlsbD0iIzAwMmQ2MiIvPgogICAgPHBhdGggZD0iTSA3NzUgMTEwNSBMIDYyMCAxMTA1IEwgNzc1IDk1MCBaIiBmaWxsPSIjYjg4NjBiIiBvcGFjaXR5PSIwLjg1Ii8+CiAgICA8cGF0aCBkPSJNIDc3NSAxMTA1IEwgNjYwIDExMDUgTCA3NzUgOTkwIFoiIGZpbGw9IiMwMDJkNjIiLz4KCiAgICA8IS0tIFNlYWwgTG9nbyAtLT4KICAgIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iNDgiIGZpbGw9IiNmZGZiZjciIHN0cm9rZT0iI2I4ODYwYiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CiAgICA8Y2lyY2xlIGN4PSI2ODAiIGN5PSIxODAiIHI9IjQwIiBmaWxsPSJub25lIiBzdHJva2U9IiNkNGFmMzciIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtZGFzaGFycmF5PSIzIDMiLz4KICAgIDx0ZXh0IHg9IjY4MCIgeT0iMTg2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjE2IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzAwMmQ2MiI+V0lERTwvdGV4dD4KCiAgICA8IS0tIEhlYWRlciBUaXRsZXMgLS0+CiAgICA8dGV4dCB4PSI0MDAiIHk9IjE5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIzNCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiNiODg2MGIiIGxldHRlci1zcGFjaW5nPSIxIj5Tb2Z0d2FyZSBMaWNlbnNlPC90ZXh0PgogICAgPHRleHQgeD0iNDAwIiB5PSIyMzUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMzYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjYjg4NjBiIiBsZXR0ZXItc3BhY2luZz0iMSI+Q2VydGlmaWNhdGU8L3RleHQ+CgogICAgPCEtLSBTdWJ0aXRsZSAtLT4KICAgIDx0ZXh0IHg9IjQwMCIgeT0iMzIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjE1IiBmaWxsPSIjMzMzIj5QVCBXaWRlIFRlY2hub2xvZ2llcyBJbmRvbmVzaWEsIGhlcmVieSwgY2VydGlmaWVzIHRoZSBzb3VyY2UgY29kZSBsaWNlbnNlIGZvcjwvdGV4dD4KICAgIDx0ZXh0IHg9IjQwMCIgeT0iMzUwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjE3IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzAwMmQ2MiI+UFQuIEJhbmsgVGFidW5nYW4gTmVnYXJhIChQZXJzZXJvKSBUYmsuPC90ZXh0PgoKICAgIDwhLS0gQ2VydCBEZXRhaWxzIEJveCAtLT4KICAgIDx0ZXh0IHg9IjQwMCIgeT0iNDIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMyI+Q2VydGlmaWNhdGUgTnVtYmVyOiBTTC0gMTAyMVg1LTI2UERDPC90ZXh0PgoKICAgIDwhLS0gVGFibGUgLS0+CiAgICA8cmVjdCB4PSIxNTAiIHk9IjQ0NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIzMiIgZmlsbD0iIzAwNWE5YyIvPgogICAgPHRleHQgeD0iMjgwIiB5PSI0NjYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSI+U29mdHdhcmU8L3RleHQ+CiAgICA8dGV4dCB4PSI1MjAiIHk9IjQ2NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIj5OdW1iZXIgb2YgTGljZW5zZTwvdGV4dD4KCiAgICA8cmVjdCB4PSIxNTAiIHk9IjQ3NyIgd2lkdGg9IjUwMCIgaGVpZ2h0PSI4NSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjY2JkNWUxIiBzdHJva2Utd2lkdGg9IjEiLz4KICAgIDxsaW5lIHgxPSI0MDAiIHkxPSI0NzciIHgyPSI0MDAiIHkyPSI1NjIiIHN0cm9rZT0iI2NiZDVlMSIgc3Ryb2tlLXdpZHRoPSIxIi8+CgogICAgPHRleHQgeD0iMTcwIiB5PSI1MDUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjMzMzIj5EYXRhIFJlY292ZXJ5IENlbnRlcjwvdGV4dD4KICAgIDx0ZXh0IHg9IjE4MCIgeT0iNTI1IiBmb250LXNpemU9IjExIiBmaWxsPSIjNTU1Ij4mIzgyMjY7IFByaW1lY2FzaCBDb3Jwb3JhdGU8L3RleHQ+CiAgICA8dGV4dCB4PSIxODAiIHk9IjU0NSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzU1NSI+JiM4MjI2OyBQcmltZWNhc2ggSW5kaXZpZHVhbDwvdGV4dD4KCiAgICA8dGV4dCB4PSI1MzAiIHk9IjUyNSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzU1NSI+MiBMaWNlbnNlczwvdGV4dD4KICAgIDx0ZXh0IHg9IjUzMCIgeT0iNTQ1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmaWxsPSIjNTU1Ij4yIExpY2Vuc2VzPC90ZXh0PgoKICAgIDx0ZXh0IHg9IjE1MCIgeT0iNTg1IiBmb250LXNpemU9IjEwIiBmaWxsPSIjNzc3Ij5EZWNlbWJlciAyOHRoIDIwMjUgLSBEZWNlbWJlciAyN3RoIDIwMjY8L3RleHQ+CiAgICA8dGV4dCB4PSI2NTAiIHk9IjU4NSIgdGV4dC1hbmNob3I9ImVuZCIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzc3NyI+KjEgTGljZW5zZSA9IDQgQ29yZTwvdGV4dD4KCiAgICA8dGV4dCB4PSI2MjAiIHk9IjY1MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMiIgZmlsbD0iIzMzMyI+SmFrYXJ0YSwgRGVjZW1iZXIgMjh0aCAyMDI1PC90ZXh0PgoKICAgIDwhLS0gU2lnbmF0dXJlIC0tPgogICAgPGxpbmUgeDE9IjUzMCIgeTE9IjczMCIgeDI9IjcxMCIgeTI9IjczMCIgc3Ryb2tlPSIjMzMzIiBzdHJva2Utd2lkdGg9IjEiLz4KICAgIDx0ZXh0IHg9IjYyMCIgeT0iNzQ2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzAwMmQ2MiI+SGFkaSBTdXJhd2lqYXlhPC90ZXh0PgogICAgPHRleHQgeD0iNjIwIiB5PSI3NjIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM1NTUiPkRpcmVjdG9yPC90ZXh0PgoKICAgIDwhLS0gRm9vdGVyIEFkZHJlc3MgLS0+CiAgICA8dGV4dCB4PSI4MCIgeT0iNzI1IiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzAwMmQ2MiI+UFQgV2lkZSBUZWNobm9sb2dpZXMgSW5kb25lc2lhPC90ZXh0PgogICAgPHRleHQgeD0iODAiIHk9Ijc0MiIgZm9udC1zaXplPSI5IiBmaWxsPSIjNjY2Ij5JbnRlcm5hdGlvbmFsIEZpbmFuY2lhbCBDZW50cmUsIFRvd2VyIDIsIDE1dGggRmxvb3I8L3RleHQ+CiAgICA8dGV4dCB4PSI4MCIgeT0iNzU2IiBmb250LXNpemU9IjkiIGZpbGw9IiM2NjYiPkpsLiBKZW5kLiBTdWRpcm1hbiBLYXYgMjItMjMsIEpha2FydGEsIDEyOTIwLCBJbmRvbmVzaWE8L3RleHQ+CiAgICA8dGV4dCB4PSI4MCIgeT0iNzcwIiBmb250LXNpemU9IjkiIGZpbGw9IiM2NjYiPlBob25lOiArNjIyMSA4MDYyIDM4NDA8L3RleHQ+CiAgPC9zdmc+"
+        },
+        {
+          "id": "att_cert_drc",
+          "formId": "form_btn_example_001",
+          "fileName": "Software_License_Certificate_DRC.png",
+          "fileType": "image/png",
+          "fileSize": 102400,
+          "order": 2,
+          "uploadedAt": "2026-10-12T15:55:31.013Z",
+          "dataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iMTEzMCIgdmlld0JveD0iMCAwIDgwMCAxMTMwIiBzdHlsZT0iYmFja2dyb3VuZDp3aGl0ZTsgZm9udC1mYW1pbHk6J1NlZ29lIFVJJyxSb2JvdG8sc2Fucy1zZXJpZjsiPgogICAgPCEtLSBHb2xkIC8gQmx1ZSBCb3JkZXIgRGVjbyAtLT4KICAgIDxyZWN0IHg9IjI1IiB5PSIyNSIgd2lkdGg9Ijc1MCIgaGVpZ2h0PSIxMDgwIiBmaWxsPSJub25lIiBzdHJva2U9IiNlMGUwZTAiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiAgICA8cGF0aCBkPSJNIDI1IDI1IEwgMTgwIDI1IEwgMjUgMTgwIFoiIGZpbGw9IiNiODg2MGIiIG9wYWNpdHk9IjAuODUiLz4KICAgIDxwYXRoIGQ9Ik0gMjUgMjUgTCAxNDAgMjUgTCAyNSAxNDAgWiIgZmlsbD0iIzAwMmQ2MiIvPgogICAgPHBhdGggZD0iTSA3NzUgMTEwNSBMIDYyMCAxMTA1IEwgNzc1IDk1MCBaIiBmaWxsPSIjYjg4NjBiIiBvcGFjaXR5PSIwLjg1Ii8+CiAgICA8cGF0aCBkPSJNIDc3NSAxMTA1IEwgNjYwIDExMDUgTCA3NzUgOTkwIFoiIGZpbGw9IiMwMDJkNjIiLz4KCiAgICA8IS0tIFNlYWwgTG9nbyAtLT4KICAgIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4MCIgcj0iNDgiIGZpbGw9IiNmZGZiZjciIHN0cm9rZT0iI2I4ODYwYiIgc3Ryb2tlLXdpZHRoPSI0Ii8+CiAgICA8Y2lyY2xlIGN4PSI2ODAiIGN5PSIxODAiIHI9IjQwIiBmaWxsPSJub25lIiBzdHJva2U9IiNkNGFmMzciIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtZGFzaGFycmF5PSIzIDMiLz4KICAgIDx0ZXh0IHg9IjY4MCIgeT0iMTg2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjE2IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzAwMmQ2MiI+V0lERTwvdGV4dD4KCiAgICA8IS0tIEhlYWRlciBUaXRsZXMgLS0+CiAgICA8dGV4dCB4PSI0MDAiIHk9IjE5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIzNCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiNiODg2MGIiIGxldHRlci1zcGFjaW5nPSIxIj5Tb2Z0d2FyZSBMaWNlbnNlPC90ZXh0PgogICAgPHRleHQgeD0iNDAwIiB5PSIyMzUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMzYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjYjg4NjBiIiBsZXR0ZXItc3BhY2luZz0iMSI+Q2VydGlmaWNhdGU8L3RleHQ+CgogICAgPCEtLSBTdWJ0aXRsZSAtLT4KICAgIDx0ZXh0IHg9IjQwMCIgeT0iMzIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjE1IiBmaWxsPSIjMzMzIj5QVCBXaWRlIFRlY2hub2xvZ2llcyBJbmRvbmVzaWEsIGhlcmVieSwgY2VydGlmaWVzIHRoZSBzb3VyY2UgY29kZSBsaWNlbnNlIGZvcjwvdGV4dD4KICAgIDx0ZXh0IHg9IjQwMCIgeT0iMzUwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjE3IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzAwMmQ2MiI+UFQuIEJhbmsgVGFidW5nYW4gTmVnYXJhIChQZXJzZXJvKSBUYmsuPC90ZXh0PgoKICAgIDwhLS0gQ2VydCBEZXRhaWxzIEJveCAtLT4KICAgIDx0ZXh0IHg9IjQwMCIgeT0iNDIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMyI+Q2VydGlmaWNhdGUgTnVtYmVyOiBTTC0gMTAyMVg1LTI2UERSQzwvdGV4dD4KCiAgICA8IS0tIFRhYmxlIC0tPgogICAgPHJlY3QgeD0iMTUwIiB5PSI0NDUiIHdpZHRoPSI1MDAiIGhlaWdodD0iMzIiIGZpbGw9IiMwMDVhOWMiLz4KICAgIDx0ZXh0IHg9IjI4MCIgeT0iNDY2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiPlNvZnR3YXJlPC90ZXh0PgogICAgPHRleHQgeD0iNTIwIiB5PSI0NjYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSI+TnVtYmVyIG9mIExpY2Vuc2U8L3RleHQ+CgogICAgPHJlY3QgeD0iMTUwIiB5PSI0NzciIHdpZHRoPSI1MDAiIGhlaWdodD0iODUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2NiZDVlMSIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgICA8bGluZSB4MT0iNDAwIiB5MT0iNDc3IiB4Mj0iNDAwIiB5Mj0iNTYyIiBzdHJva2U9IiNjYmQ1ZTEiIHN0cm9rZS13aWR0aD0iMSIvPgoKICAgIDx0ZXh0IHg9IjE3MCIgeT0iNTA1IiBmb250LXNpemU9IjEyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMyI+RGF0YSBDZW50ZXI8L3RleHQ+CiAgICA8dGV4dCB4PSIxODAiIHk9IjUyNSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzU1NSI+JiM4MjI2OyBQcmltZWNhc2ggQ29ycG9yYXRlPC90ZXh0PgogICAgPHRleHQgeD0iMTgwIiB5PSI1NDUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM1NTUiPiYjODIyNjsgUHJpbWVjYXNoIEluZGl2aWR1YWw8L3RleHQ+CgogICAgPHRleHQgeD0iNTMwIiB5PSI1MjUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTEiIGZpbGw9IiM1NTUiPjIgTGljZW5zZXM8L3RleHQ+CiAgICA8dGV4dCB4PSI1MzAiIHk9IjU0NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzU1NSI+MiBMaWNlbnNlczwvdGV4dD4KCiAgICA8dGV4dCB4PSIxNTAiIHk9IjU4NSIgZm9udC1zaXplPSIxMCIgZmlsbD0iIzc3NyI+RGVjZW1iZXIgMjh0aCAyMDI1IC0gRGVjZW1iZXIgMjd0aCAyMDI2PC90ZXh0PgogICAgPHRleHQgeD0iNjUwIiB5PSI1ODUiIHRleHQtYW5jaG9yPSJlbmQiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiM3NzciPioxIExpY2Vuc2UgPSA0IENvcmU8L3RleHQ+CgogICAgPHRleHQgeD0iNjIwIiB5PSI2NTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiMzMzMiPkpha2FydGEsIERlY2VtYmVyIDI4dGggMjAyNTwvdGV4dD4KCiAgICA8IS0tIFNpZ25hdHVyZSAtLT4KICAgIDxsaW5lIHgxPSI1MzAiIHkxPSI3MzAiIHgyPSI3MTAiIHkyPSI3MzAiIHN0cm9rZT0iIzMzMyIgc3Ryb2tlLXdpZHRoPSIxIi8+CiAgICA8dGV4dCB4PSI2MjAiIHk9Ijc0NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMyIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMwMDJkNjIiPkhhZGkgU3VyYXdpamF5YTwvdGV4dD4KICAgIDx0ZXh0IHg9IjYyMCIgeT0iNzYyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjExIiBmaWxsPSIjNTU1Ij5EaXJlY3RvcjwvdGV4dD4KCiAgICA8IS0tIEZvb3RlciBBZGRyZXNzIC0tPgogICAgPHRleHQgeD0iODAiIHk9IjcyNSIgZm9udC1zaXplPSIxMSIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMwMDJkNjIiPlBUIFdpZGUgVGVjaG5vbG9naWVzIEluZG9uZXNpYTwvdGV4dD4KICAgIDx0ZXh0IHg9IjgwIiB5PSI3NDIiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iIzY2NiI+SW50ZXJuYXRpb25hbCBGaW5hbmNpYWwgQ2VudHJlLCBUb3dlciAyLCAxNXRoIEZsb29yPC90ZXh0PgogICAgPHRleHQgeD0iODAiIHk9Ijc1NiIgZm9udC1zaXplPSI5IiBmaWxsPSIjNjY2Ij5KbC4gSmVuZC4gU3VkaXJtYW4gS2F2IDIyLTIzLCBKYWthcnRhLCAxMjkyMCwgSW5kb25lc2lhPC90ZXh0PgogICAgPHRleHQgeD0iODAiIHk9Ijc3MCIgZm9udC1zaXplPSI5IiBmaWxsPSIjNjY2Ij5QaG9uZTogKzYyMjEgODA2MiAzODQwPC90ZXh0PgogIDwvc3ZnPg=="
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "fonnteToken": "",
+    "fonnteSuperadminPhone": "081234567890",
+    "reminderTemplate": "Halo {nama}, formulir dokumentasi aset proyek \"{nama_proyek}\" ({kode_proyek}) dari vendor {vendor} membutuhkan tanda tangan Anda untuk slot: {slot_belum_ttd}. Silakan akses sistem: {link}",
+    "reminderCronSchedule": "0 9 * * 1-5",
+    "defaultDiverifikasiSlots": [
+      {
+        "key": "div_pm_btn",
+        "title": "IT Project Manager BTN"
+      },
+      {
+        "key": "div_qa",
+        "title": "IT Quality Assurance"
+      },
+      {
+        "key": "div_arch",
+        "title": "Technology Architecture Specialist"
+      },
+      {
+        "key": "div_cmdb",
+        "title": "IT Asset Compliance & CMDB Specialist"
+      }
+    ],
+    "defaultDisetujuiSlots": [
+      {
+        "key": "appr_pm_dh",
+        "title": "Department Head of IT Project Management"
+      },
+      {
+        "key": "appr_qa_dh",
+        "title": "Department Head of IT Quality Assurance"
+      },
+      {
+        "key": "appr_ea_dh",
+        "title": "Department Head of Enterprise Architecture & Innovation"
+      },
+      {
+        "key": "appr_asset_dh",
+        "title": "Department Head of IT Asset Management"
+      }
+    ]
+  },
+  "reminderRecipients": [
+    {
+      "id": "rec_1",
+      "name": "Ratih Yulia P",
+      "whatsappNumber": "081298765432",
+      "slotKey": "div_pm_btn",
+      "slotTitle": "IT Project Manager BTN",
+      "isActive": true
+    },
+    {
+      "id": "rec_2",
+      "name": "Muhammad Juliansyah Hartono",
+      "whatsappNumber": "081298765433",
+      "slotKey": "div_qa",
+      "slotTitle": "IT Quality Assurance",
+      "isActive": true
+    },
+    {
+      "id": "rec_3",
+      "name": "Rizal Firdaus",
+      "whatsappNumber": "081298765434",
+      "slotKey": "div_arch",
+      "slotTitle": "Technology Architecture Specialist",
+      "isActive": true
+    },
+    {
+      "id": "rec_4",
+      "name": "Thifal Atsiil",
+      "whatsappNumber": "081298765435",
+      "slotKey": "div_cmdb",
+      "slotTitle": "IT Asset Compliance & CMDB Specialist",
+      "isActive": true
+    },
+    {
+      "id": "rec_5",
+      "name": "I Nyoman Hermawan",
+      "whatsappNumber": "081298765436",
+      "slotKey": "appr_pm_dh",
+      "slotTitle": "Department Head of IT Project Management",
+      "isActive": true
+    }
+  ],
+  "reminderLogs": [],
+  "auditLogs": [
+    {
+      "id": "aud_1791820540530",
+      "timestamp": "2026-10-12T15:55:40.530Z",
+      "userId": "usr_superadmin",
+      "username": "superadmin",
+      "action": "LOGIN",
+      "details": "Pengguna Super Administrator BTN berhasil masuk."
+    },
+    {
+      "id": "aud_1791820552453",
+      "timestamp": "2026-10-12T15:55:52.453Z",
+      "userId": "usr_superadmin",
+      "username": "superadmin",
+      "action": "LOGIN",
+      "details": "Pengguna Super Administrator BTN berhasil masuk."
+    },
+    {
+      "id": "aud_1791820566784",
+      "timestamp": "2026-10-12T15:56:06.784Z",
+      "userId": "usr_superadmin",
+      "username": "superadmin",
+      "action": "LOGIN",
+      "details": "Pengguna Super Administrator BTN berhasil masuk."
+    },
+    {
+      "id": "aud_1791820578315",
+      "timestamp": "2026-10-12T15:56:18.315Z",
+      "userId": "usr_superadmin",
+      "username": "superadmin",
+      "action": "LOGIN",
+      "details": "Pengguna Super Administrator BTN berhasil masuk."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Formulir Dokumentasi Aset Proyek TI BTN",
+  "description": "Sistem formulir dokumentasi aset proyek TI Bank BTN dengan ekspor PDF & Word 1:1, tanda tangan digital, manajemen lampiran, dan integrasi Google Sheets & WhatsApp Fonnte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
